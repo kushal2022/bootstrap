@@ -1,0 +1,29 @@
+.header {
+    padding-top: 15px;
+    text-align: center;
+    height: 50px;
+}
+
+.content {
+    background-color: gray;
+    min-height: 600px;
+}
+
+.main-content {
+    background-color: white;
+    min-height: 600px;
+}
+
+.sidebar {
+    overflow: scroll;
+}
+
+.footer {
+    padding-top: 15px;
+    text-align: center;
+    height: 50px;
+}
+
+.card {
+    height: 300px;
+}
