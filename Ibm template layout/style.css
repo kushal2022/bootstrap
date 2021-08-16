@@ -1,0 +1,30 @@
+.body {
+  background-color: green;
+}
+
+.sidebar {
+  min-height: 600px;
+  overflow-y: scroll;
+}
+
+.header {
+    padding-top: 15px;
+    text-align: center;
+    height: 50px;
+}
+
+.footer {
+    padding-top: 15px;
+    text-align: center;
+    height: 50px;
+}
+
+.list-group-item {
+  background-color: dark;
+  color: white;
+  border-bottom: 1px solid gray;
+}
+
+.list-group {
+  color: black;
+}
